@@ -1,6 +1,6 @@
 # inKino - a multiplatform Dart project with code sharing between Flutter and web
 
-<img src="assets/screenshots/now_in_theaters.png" width="32%" /> <img src="assets/screenshots/showtimes.png" width="32%" /> <img src="assets/screenshots/event_details.png" width="32%" />
+<img src="assets/screenshots/now_in_theaters.png" width="32%" /> <img src="assets/screenshots/showtimes.png" width="32%" />
 
 ## What is inKino?
 
@@ -71,14 +71,3 @@ First, ensure that you followed the "Development environment setup" section abov
 * To run the **web project**, first run `pub get` initially, and then `webdev serve` in the root of the web project.
 * To run the **Flutter project**, open it in your editor and click the play button, or run `flutter run` on your terminal.
 
-## Contributing
-
-Contributions are welcome! 
-However, if it's going to be a major change, please create an issue first. 
-Before starting to work on something, please comment on a specific issue and say you'd like to work on it.
-
-## Thanks
-
-Special thanks to [Olli Haataja](https://www.linkedin.com/in/olli-haataja-46b96b120/) for the design. 
-
-Additional thanks for the initial release go to [Thibaud Colas](https://twitter.com/thibaud_colas), [Brian Egan](https://twitter.com/brianegan), [Alessandro Aime](https://twitter.com/aimealessandro) and [Juho Rautioaho](https://github.com/Jraut) for giving their extra pair of eyes for reviewing the source code.
