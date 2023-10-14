@@ -1,6 +1,6 @@
 # inKino - a multiplatform Dart project with code sharing between Flutter and web
 
-<img src="assets/screenshots/now_in_theaters.png" width="32%" /> <img src="assets/screenshots/showtimes.png" width="32%" />
+<img src="assets/screenshots/now_in_theaters.png" width="32%" /> <img src="assets/screenshots/showtimes.png" width="32%" /> <img src="assets/screenshots/event_details.png" width="32%" />
 
 ## What is inKino?
 
